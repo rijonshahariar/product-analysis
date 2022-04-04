@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 600px;
+
+    margin: auto;
+    height: 80px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.303);
+}
+.link{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 15px;
+    color: #3a3a3a;
+    transition: color ease-in-out 300ms;
+}
+.link:hover{
+    border-bottom: 2px solid red;
+}
+.active-link {
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 18px;
+    border-bottom: 2px solid red;
+    transition: color ease-in-out 300ms;
+    color: #ff0000;
+  }
