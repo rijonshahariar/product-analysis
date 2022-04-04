@@ -1,0 +1,86 @@
+[
+    {
+        "id": "623eb9a23e8db81caa212218",
+        "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+        "name": "Tyler Austin",
+        "rvw": "They’re extremely portable, so you can fit them in your backpack or clip them to your bike if you want some music while you cycle.",
+        "rate": "4.6"
+    },
+    {
+        "id": "623eb9a29ecc0db3d38529dc",
+        "picture": "https://randomuser.me/api/portraits/men/91.jpg",
+        "name": "Mathew Philip",
+        "rvw": "Simple to use, in that they usually have minimal, intuitive controls and can start playing music as soon as you’ve connected your device.",
+        "rate": "4.2"
+    },
+    {
+        "id": "623eb9a2950eabb29d7143e7",
+        "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+        "name": "Nicholas Rodriguez",
+        "rvw": "Connectivity can be a bit unreliable, as you need to be within range - it also just takes a stubborn device to spoil all the fun.",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a266e84a09a0a168d0",
+        "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+        "name": "Shawn Samson",
+        "rvw": "They often pick up everything that your paired device does, so everyone may hear your text and email notifications.",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a2ecdba868286d3ba1",
+        "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+        "name": "Delores Taylor",
+        "rvw": "Both are working well and we have linked them together to form a true stereo sound. Batteries last and no problems so far.",
+        "rate": "4.9"
+    },
+    {
+        "id": "623eb9a239bb8fc38721d082",
+        "picture": "https://randomuser.me/api/portraits/women/28.jpg",
+        "name": "Claire Campbell",
+        "rvw": "I charge it so I can use it in the future; I then preparedly go to use it and it lasts for approx 25 minutes, no more, I need to find another brand and buy.",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a25b1c853106efa58b",
+        "picture": "https://randomuser.me/api/portraits/women/60.jpg",
+        "name": "Melissa Harvey",
+        "rvw": "Bought on special as discontinued, newer model inbound. Was important to have a smash-proof and waterproof speaker as young kids are rough.",
+        "rate": "4.2"
+    },
+    {
+        "id": "623eb9a2ff31fee084195f95",
+        "picture": "https://randomuser.me/api/portraits/women/40.jpg",
+        "name": "Deanna Arnold",
+        "rvw": "Only issue is the charging connector seems fragile. Takes a few goes to correctly insert supplied usb male connector into female on device.",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a2c226b7a071e161e1",
+        "picture": "https://randomuser.me/api/portraits/men/9.jpg",
+        "name": "Kelly Hadson",
+        "rvw": "Waterproof, good and clear sound, extremely resistant. What else would I expect from a a sound box? Nothing. I love mine, maybe I will just update it to the new models",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a2456440dc23bb8829",
+        "picture": "https://randomuser.me/api/portraits/men/43.jpg",
+        "name": "Donald Rhodes",
+        "rvw": "overall a great speaker! It is waterproof so it can sit next to a pool or near the shower without being damaged, and it is also drop resistant so it doesn't get damaged when it is dropped.",
+        "rate": "4.5"
+    },
+    {
+        "id": "623eb9a27bc0e8b11dt43469",
+        "picture": "https://randomuser.me/api/portraits/men/34.jpg",
+        "name": "Gary King",
+        "rvw": "I just love this portable speaker, It produces good sound and bass for its intended purpose. I mainly use the Boom 2 on trail rides with my cycling group.",
+        "rate": "4.3"
+    },
+    {
+        "id": "623eb9a27bc0e8b11da43469",
+        "picture": "https://randomuser.me/api/portraits/men/31.jpg",
+        "name": "Lance Meyer",
+        "rvw": "Our first Bluetooth speaker and couldn’t be happier. It’s light and easy to carry around when travelling and has a great sound with most genres of music we have tried.",
+        "rate": "4.5"
+    }
+]

@@ -1,0 +1,14 @@
+.charts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:20px;
+
+}
+.charts div{
+    margin:10px;
+}
+.charts h4{
+    text-align: center;
+    color:#4b45f5;
+}

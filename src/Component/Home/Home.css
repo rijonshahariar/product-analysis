@@ -1,0 +1,58 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.leftSide{
+    font-size: 20px;
+    color:black;
+}
+
+.leftSide h2{
+    line-height: 20px;
+    font-size: 3em;
+}
+.rightside img{
+    width:500px;
+}
+span{
+    color: #4b45f5;
+}
+
+.more-button {
+font-size: 21px;
+padding: 10px 20px;
+color: #4b45f5;
+background-color: #cccbfa;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+text-decoration: none;
+transition: 0.5s ease-in-out;
+}
+
+.more-button:hover{
+    background: transparent;
+    color: #261fff;
+}
+
+.reviews{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.reviews h2{
+    font-size:40px;
+}
+
+.review-container{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(3, 1fr);
+  
+    margin-top: 50px;
+}
+
