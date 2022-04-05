@@ -1,6 +1,5 @@
 import { Rating } from '@mui/material';
 import React from 'react';
-import { FaStar } from "react-icons/fa";
 import './Review.css'
 const Review = ({ review }) => {
     const { name, picture, rvw, rate } = review;

@@ -23,7 +23,7 @@ const Home = () => {
                     <Link to='./dashboard' className='more-button'>Live Demo</Link>
                 </div>
 
-                <div className="rightside reverse-main">
+                <div className="rightside">
                     <img src={speakerimg} alt="laptop" />
                 </div>
             </div>
