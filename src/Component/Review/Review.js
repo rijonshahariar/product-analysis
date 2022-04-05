@@ -1,3 +1,4 @@
+import { Rating } from '@mui/material';
 import React from 'react';
 import { FaStar } from "react-icons/fa";
 import './Review.css'
@@ -5,18 +6,20 @@ const Review = ({ review }) => {
     const { name, picture, rvw, rate } = review;
     return (
 
-        <div className='row g-3'>
 
-            <div className='col-12 col-md-3 card p-4 shadow-md rounded'>
+        <div className='card'>
 
-                <img src={picture} alt="" />
-                <h3 className='name'>{name}</h3>
+            <div className="reviewcontainer">
+                <div className='caption'>
+                    <img src={picture} alt="" />
 
-                <p className='review'>{rvw}</p>
-                <p className='rating'>Rating: <FaStar className='star' /> {rate}</p>
+                    <p>{rvw}</p>
+                    <Rating name="read-only" value={rate} readOnly />
+                    <h3>{name}</h3>
 
+                </div>
             </div>
-        </div >
+        </div>
     );
 };
 

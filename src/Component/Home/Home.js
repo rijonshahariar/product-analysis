@@ -20,17 +20,17 @@ const Home = () => {
                         We've been powering the world's top musicians and venues<br /> for more than seven decades.
                     </p>
                     <br />
-                    <Link to='./review' className='more-button'>Live Demo</Link>
+                    <Link to='./dashboard' className='more-button'>Live Demo</Link>
                 </div>
 
-                <div className="rightside">
+                <div className="rightside reverse-main">
                     <img src={speakerimg} alt="laptop" />
                 </div>
             </div>
 
             <div className='reviews'>
                 <h2>What <span>Customers</span> Say!</h2>
-                <div className='review-container'>
+                <div className='review-container home'>
                     {
                         reviews.map(review =>
                             <Review

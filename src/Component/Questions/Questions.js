@@ -4,17 +4,11 @@ const Questions = () => {
     return (
         <div>
             <div className='questions'>
-                <h2>Asked Questions</h2>
+                <h1>Asked <span>Questions</span></h1>
                 <h4>1. How React Works?</h4>
                 <p>React implements a virtual DOM that is basically a DOM tree representation in JavaScript. So when it needs to read or write to the DOM, it will use the virtual representation of it. Then the virtual DOM will try to find the most efficient way to update the browser’s DOM. Unlike browser DOM elements, React elements are plain objects and are cheap to create. React DOM takes care of updating the DOM to match the React elements.</p>
-                <h4>2. Difference Between Props and UseState?</h4>
-                <p> <strong>Props</strong><br />
-                    1. Props are read-only. <br />
-                    2. Props are immutable. <br />
-                    3. Props are used to communicate between components.<br />
-                    4. Props can be accessed by the child component.  <br />
-                    5. Props make components reusable. <br /> <br />
-                    <strong>State</strong><br />
+                <h4>2. What is Semantic Tag?</h4>
+                <p> The core characteristic of a semantic element is that it clearly communicated its meaning to both the developer and the browser. These elements clearly define its content.
                     1. State changes can be asynchronous. <br />
                     2. State is mutable. <br />
                     3. State holds information about the components. <br />
