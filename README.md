@@ -7,3 +7,4 @@ Live Website Link [SoundBay](https://github.com/facebook/create-react-app).
 - Showed 3 reviews in home section
 - Header navigation bar with decent style
 - Created custom hook for customer review
+- Error page for broken links
